@@ -21,4 +21,4 @@
 
 ## Quant
 - [Fahrenheit Black](Quant/Fahrenheit_Black)
-- [Uber Ridesharing Algorithm](Quant/Fahrenheit_Black)
+- [Uber Ridesharing Algorithm](Quant/Fahrenheit_Black)(https://github.com/mcc5635/uber-algo)
