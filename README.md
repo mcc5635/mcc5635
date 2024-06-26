@@ -1,33 +1,24 @@
 
-## Project Directory Structure
+## Project Directory
 
 ## Climate
-- [NASA Food Insecurity Dashboard](Climate/NASA_Food_Insecurity_Dashboard)
-- [Forestry Dashboard](Climate/Forestry_Dashboard)
-- [Climate Loss Calculation Algorithm](Climate/Climate_Loss_Calculation_Algorithm)
-- [Climate Scenario API Example](Climate/Climate_Scenario_API_Example)
-- [Climate Report Generator](Climate/Climate_Report_Generator)
-- [Raster Data Validate](Climate/Raster_Data_Validate)
-- [Raster Data Example](Climate/Raster_Data_Example)
-- [San Diego Energy Forecasting](Climate/San_Diego_Energy_Forecasting)
+  ### NASA
+  - [NASA Food Insecurity Dashboard]([https://github.com/mcc5635/nasa-whitepaper])
+  ### Algorithms
+  - [Climate Loss Calculation Algorithm]([https://github.com/mcc5635/climate-loss-calculation-algorithm])
+  - [Climate Scenario API Example]([https://github.com/mcc5635/build-integrate-climate-scenario-api])
+  - [Raster Data Validate]([https://github.com/mcc5635/raster-data-validate])
+  - [Raster Data Example]([https://github.com/mcc5635/raster-data-example])
+  ### Tools
+  - [San Diego Energy Forecasting]([https://github.com/mcc5635/san-diego-energy-forecasting])
+  - [Climate Report Generator]([https://github.com/mcc5635/report-generator])
 
-## Polygenic Risk Scores
+## Biostatistics (GWAS)
 - [Cancer Disparities Navigator]([https://github.com/mcc5635/CancerDisparitiesNavigator])
-- Monte Carlo Simulations add here
+- [Monte Carlo Simulations]([https://github.com/mcc5635/MonteCarloSimulations])
+- [Fine-Tuning AlphaFold 3.0 on NVIDIA Parabricks & CUDA Compiler]([https://github.com/mcc5635/MonteCarloSimulations])
+
 
 ## Quant
 - [Fahrenheit Black](Quant/Fahrenheit_Black)
-- DCFs, Comps, etc
-
-## DevOps
-- [Flyte Examples](DevOps/Flyte_Examples)
-- [Aws-Lambda-R-Inference](Quant/Aws-Lambda-R-Inference)
-- [CI/CD Example](DevOps/CI_CD_Example)
-- [Golang Kubernetes Test](DevOps/Golang_Kubernetes_Test)
-
-## Data Science
-- [Uber Ridesharing Algorithm]
-- [X4 Recommendation System](Data_Science/X4_Recommendation_System)
-
-## Coming Soon
-- [Climate AI Assistant](Coming_Soon/Climate_AI_Assistant)
+- [Uber Ridesharing Algorithm](Quant/Fahrenheit_Black)
