@@ -3,7 +3,7 @@
 
 ## Climate
   ### NASA
-  - [NASA Food Insecurity Dashboard]([https://github.com/mcc5635/nasa-whitepaper])
+  - [NASA Food Insecurity Dashboard](https://github.com/mcc5635/nasa-whitepaper)
   ### Algorithms
   - [Climate Loss Calculation Algorithm]([https://github.com/mcc5635/climate-loss-calculation-algorithm])
   - [Climate Scenario API Example]([https://github.com/mcc5635/build-integrate-climate-scenario-api])
