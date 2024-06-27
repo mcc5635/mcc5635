@@ -1,24 +1,17 @@
 
 ## Project Directory
 
-## Climate
-  ### NASA
-  - [NASA Crop Yield Detection Whitepaper](https://github.com/mcc5635/nasa-summary-whitepaper)
-  ### Algorithms
-  - [Climate Loss Calculation Algorithm](https://github.com/mcc5635/climate-loss-calculation-algorithm)
-  - [Climate Scenario API Example](https://github.com/mcc5635/build-integrate-climate-scenario-api)
-  - [Raster Data Validate](https://github.com/mcc5635/raster-data-validate)
-  - [Raster Data Example](https://github.com/mcc5635/raster-data-example)
+
+  ### White Papers
+  - [NASA Crop Yield Detection](https://www.dropbox.com/scl/fi/gwy94zjkpbepljvh44r57/summary-4.pdf?rlkey=38i216wa4xa3iyk3mhabk2jkw&st=g7l75kv8&dl=0)
+  - [Hawaii Weather Risk App](Quant/Fahrenheit_Black)
+  - [Fahrenheit Black Algorithm Summary](Quant/Fahrenheit_Black)
+  - [Polygenic Risk Score Monte Carlo Simulations](https://github.com/mcc5635/prs-montecarlosimulation)
+
+   
   ### Tools
   - [San Diego Energy Forecast](https://github.com/mcc5635/san-diego-energy-forecasting)
+  - [Cancer Disparities Navigator](https://github.com/mcc5635/CancerDisparitiesNavigator)
+  - [Fine-Tuning AlphaFold 3.0 on NVIDIA Parabricks & CUDA Compiler](https://github.com/mcc5635/MonteCarloSimulations)
   - [Climate Report Generator](https://github.com/mcc5635/report-generator)
-
-## Biostatistics (GWAS)
-- [Cancer Disparities Navigator](https://github.com/mcc5635/CancerDisparitiesNavigator)
-- [Monte Carlo Simulations](https://github.com/mcc5635/MonteCarloSimulations)
-- [Fine-Tuning AlphaFold 3.0 on NVIDIA Parabricks & CUDA Compiler](https://github.com/mcc5635/MonteCarloSimulations)
-
-
-## Quant
-- [Fahrenheit Black](Quant/Fahrenheit_Black)
-- [Uber Ridesharing Algorithm](Quant/Fahrenheit_Black)(https://github.com/mcc5635/uber-algo)
+  
